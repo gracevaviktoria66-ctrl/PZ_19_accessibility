@@ -67,6 +67,6 @@ body {
 a:focus-visible,
 button:focus-visible {
     outline: 3px solid #f5f4ef;
-    outline-offset: 4px;
+    outline-offset:4px;
 }
 
